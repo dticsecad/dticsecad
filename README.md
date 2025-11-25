@@ -38,16 +38,8 @@ Utilizamos ferramentas modernas para garantir estabilidade e segurança:
   <img src="https://img.shields.io/badge/Backend-Java_Spring-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend-PHP_Laravel-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-MySQL-336791?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Infra-Python-2496ED?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/RPA-Python-2496ED?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Infra-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-### 📊 Visão Geral do GitHub
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-AQUI]&show_icons=true&theme=default&hide_border=true&title_color=005f73&icon_color=005f73" alt="Stats da Prefeitura" />
 </p>
 
 ---
