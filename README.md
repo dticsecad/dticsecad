@@ -37,8 +37,8 @@ Utilizamos ferramentas modernas para garantir estabilidade e segurança:
 <p align="left">
   <img src="https://img.shields.io/badge/Backend-Java_Spring-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend-PHP_Laravel-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MySQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Infra-Python-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL-336791?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infra-Python-2496ED?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Infra-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
