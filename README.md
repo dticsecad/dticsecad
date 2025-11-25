@@ -16,7 +16,7 @@
 
 ### 👋 Sobre Nós
 
-Bem-vindo ao repositório oficial da equipe de TI da Prefeitura de **[Cidade]**.
+Bem-vindo ao repositório oficial da equipe de TI da Prefeitura de **Lauro de Freitas**.
 Aqui centralizamos o desenvolvimento de soluções tecnológicas voltadas para a modernização da gestão pública e melhoria dos serviços prestados ao cidadão.
 
 Nossa missão é promover a **Transformação Digital** com foco em:
@@ -43,7 +43,7 @@ Utilizamos ferramentas modernas para garantir estabilidade e segurança:
 <div align="center">
   <small>
     Este é um perfil oficial gerido pela Diretoria de TI. <br/>
-    Prefeitura Municipal de [Cidade] - Estado de [UF] <br/>
+    Prefeitura Municipal de Lauro de Freitas - Estado de BA <br/>
     <i>"Trabalhando por uma cidade mais inteligente."</i>
   </small>
 </div>
