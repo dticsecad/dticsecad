@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://via.placeholder.com/1000x200?text=Tecnologia+e+Inovação+-+Prefeitura+Municipal" alt="Banner TI" width="100%" />
-</div>
-
 <br/>
 
 <h1 align="center">Prefeitura Municipal de Lauro de Freitas 🏛️</h1>
