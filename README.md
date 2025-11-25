@@ -4,7 +4,7 @@
 
 <br/>
 
-<h1 align="center">Prefeitura Municipal de [Nome da Cidade] 🏛️</h1>
+<h1 align="center">Prefeitura Municipal de Lauro de Freitas 🏛️</h1>
 <h3 align="center">Setor de Tecnologia da Informação e Inovação</h3>
 
 <p align="center">
@@ -12,9 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://[site-da-prefeitura].gov.br">🌐 Site Oficial</a> •
-  <a href="mailto:ti@[cidade].gov.br">📧 Contato Oficial</a> •
-  <a href="https://[link-portal-transparencia]">📊 Portal da Transparência</a>
+  <a href="https://www.laurodefreitas.ba.gov.br/site/">🌐 Site Oficial</a> •
+  <a href="mailto:ti@[cidade].gov.br">📧 Contato Oficial</a>
 </p>
 
 ---
@@ -38,9 +37,8 @@ Utilizamos ferramentas modernas para garantir estabilidade e segurança:
 <p align="left">
   <img src="https://img.shields.io/badge/Backend-Java_Spring-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend-PHP_Laravel-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Infra-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infra-Python-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Infra-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
@@ -51,18 +49,6 @@ Utilizamos ferramentas modernas para garantir estabilidade e segurança:
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-AQUI]&show_icons=true&theme=default&hide_border=true&title_color=005f73&icon_color=005f73" alt="Stats da Prefeitura" />
 </p>
-
----
-
-### 📌 Repositórios em Destaque
-
-Abaixo, listamos nossos principais projetos open-source e documentações públicas:
-
-| Projeto | Descrição | Linguagem |
-| :--- | :--- | :--- |
-| **[portal-dados-abertos]** | API de consulta de dados públicos do município. | Python |
-| **[app-saude]** | Aplicativo de agendamento de consultas. | React Native |
-| **[docs-integracao]** | Documentação para integração de sistemas terceiros. | Markdown |
 
 ---
 
